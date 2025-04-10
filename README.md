@@ -2,7 +2,7 @@
 🚀 A passionate Python & Django developer transitioning into Machine Learning, building like a pro with a 10x mindset.
 
 ## 📌 About Me  
-Detail-driven backend developer with 3+ years of experience, currently mastering AI/ML to craft smart, scalable solutions like a seasoned engineer.
+Detail-driven backend developer with 5+ years of experience, currently mastering AI/ML to craft smart, scalable solutions like a seasoned engineer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jasnfkj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asgdfasdf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sdf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadfasd) 
