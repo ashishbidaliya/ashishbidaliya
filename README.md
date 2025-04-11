@@ -1,6 +1,4 @@
-<div style="overflow: hidden;">
-  <img src="https://github.com/ashishbidaliya/ashishbidaliya/blob/main/banner.jpg?raw=true" alt="Banner" style="width: 100%; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-</div>
+<img src="https://github.com/ashishbidaliya/ashishbidaliya/blob/main/banner.jpg?raw=true" alt="Banner" style="width:100%;" />
 
 # 👋 Hi, I’m Ashish Bidaliya  
 🚀 A passionate Python & Django developer transitioning into Machine Learning, building like a pro with a 10x mindset.
