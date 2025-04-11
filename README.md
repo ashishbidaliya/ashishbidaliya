@@ -1,3 +1,5 @@
+<img src="https://github.com/ashishbidaliya/ashishbidaliya/blob/main/banner.png?raw=true" alt="Banner" style="width:100%;" />
+
 # 👋 Hi, I’m Ashish Bidaliya  
 🚀 A passionate Python & Django developer transitioning into Machine Learning, building like a pro with a 10x mindset.
 
