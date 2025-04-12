@@ -1,7 +1,7 @@
 <img src="https://github.com/ashishbidaliya/ashishbidaliya/blob/main/banner.jpg?raw=true" alt="Banner" style="width:100%;" />
 
 # 👋 Hi, I’m Ashish Bidaliya  
-🚀 A passionate Python & Django developer transitioning into Machine Learning, building like a pro with a 10x mindset.
+🚀 A passionate Python backend developer transitioning into Machine Learning, building intelligent solutions for the future.
 
 ## 📌 About Me  
 Detail-driven backend developer with 5+ years of experience, currently mastering AI/ML to craft smart, scalable solutions like a seasoned engineer.
