@@ -1,10 +1,10 @@
 <img src="https://github.com/ashishbidaliya/ashishbidaliya/blob/main/banner.jpg?raw=true" alt="Banner" style="width:100%;" />
 
 # 👋 Hi, I’m Ashish Bidaliya  
-🚀 A passionate Python backend developer transitioning into Machine Learning, building intelligent solutions for the future.
+🚀 Enthusiastic learner in AI/ML | MERN Stack & DSA practitioner | Building and experimenting with intelligent solutions.
 
 ## 📌 About Me  
-Detail-driven backend developer with 5+ years of experience, currently mastering AI/ML to craft smart, scalable solutions like a seasoned engineer.
+I’m a passionate developer with hands-on experience in MERN stack and strong problem-solving skills through DSA. Currently, I’m diving deep into AI/ML, exploring and building intelligent solutions while continuously learning and experimenting with new technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jasnfkj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asgdfasdf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sdf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadfasd) 
