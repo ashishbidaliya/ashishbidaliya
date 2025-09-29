@@ -1,4 +1,4 @@
-<img src="https://github.com/ashishbidaliya/ashishbidaliya/blob/main/banner.jpg?raw=true" alt="Banner" style="width:100%;" />
+<img src="https://github.com/ashishbidaliya/ashishbidaliya/blob/main/banner2.png?raw=true" alt="Banner" style="width:100%;" />
 
 # 👋 Hi, I’m Ashish Bidaliya  
 🚀 Enthusiastic learner in AI/ML | MERN Stack & DSA practitioner | Building and experimenting with intelligent solutions.
